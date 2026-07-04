@@ -1,1 +1,0 @@
-# parallax-devops-screening
